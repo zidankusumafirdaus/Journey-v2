@@ -1,0 +1,2 @@
+- MIGRASI
+  = python migrate.py
